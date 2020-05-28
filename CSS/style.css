@@ -1,11 +1,6 @@
-.my-class {
+ .tour-class {
   border: 2px solid green;
   padding: 4px;
-}
-
-.my-class {
   margin: 12px;
-  border: 2px solid green;
-  padding: 4px;
-  background-color: light blue
+  background-color: blue;
 }
